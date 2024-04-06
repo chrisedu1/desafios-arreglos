@@ -50,6 +50,14 @@ namespace DemoArrayGame
                 }
 
             }
+
+            if ((tablero[0, 0] == jugadorActual && tablero[1, 1] == jugadorActual && tablero[2, 2] == jugadorActual) ||
+                (tablero[0, 2] == jugadorActual && tablero[1, 1] == jugadorActual && tablero[2, 0] == jugadorActual))
+            {
+                Console.WriteLine("Felicidades jugador " + jugadorActual + " eres el Ganador!!!");
+                return true;
+            }
+
             return false;
         }
 
