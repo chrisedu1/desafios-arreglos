@@ -1,0 +1,14 @@
+C:\Users\CHRIS\Desktop\desafios-arreglos\ListaTareas\ListaTareas\bin\Debug\net8.0\ListaTareas.exe
+C:\Users\CHRIS\Desktop\desafios-arreglos\ListaTareas\ListaTareas\bin\Debug\net8.0\ListaTareas.deps.json
+C:\Users\CHRIS\Desktop\desafios-arreglos\ListaTareas\ListaTareas\bin\Debug\net8.0\ListaTareas.runtimeconfig.json
+C:\Users\CHRIS\Desktop\desafios-arreglos\ListaTareas\ListaTareas\bin\Debug\net8.0\ListaTareas.dll
+C:\Users\CHRIS\Desktop\desafios-arreglos\ListaTareas\ListaTareas\bin\Debug\net8.0\ListaTareas.pdb
+C:\Users\CHRIS\Desktop\desafios-arreglos\ListaTareas\ListaTareas\obj\Debug\net8.0\ListaTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHRIS\Desktop\desafios-arreglos\ListaTareas\ListaTareas\obj\Debug\net8.0\ListaTareas.AssemblyInfoInputs.cache
+C:\Users\CHRIS\Desktop\desafios-arreglos\ListaTareas\ListaTareas\obj\Debug\net8.0\ListaTareas.AssemblyInfo.cs
+C:\Users\CHRIS\Desktop\desafios-arreglos\ListaTareas\ListaTareas\obj\Debug\net8.0\ListaTareas.csproj.CoreCompileInputs.cache
+C:\Users\CHRIS\Desktop\desafios-arreglos\ListaTareas\ListaTareas\obj\Debug\net8.0\ListaTareas.dll
+C:\Users\CHRIS\Desktop\desafios-arreglos\ListaTareas\ListaTareas\obj\Debug\net8.0\refint\ListaTareas.dll
+C:\Users\CHRIS\Desktop\desafios-arreglos\ListaTareas\ListaTareas\obj\Debug\net8.0\ListaTareas.pdb
+C:\Users\CHRIS\Desktop\desafios-arreglos\ListaTareas\ListaTareas\obj\Debug\net8.0\ListaTareas.genruntimeconfig.cache
+C:\Users\CHRIS\Desktop\desafios-arreglos\ListaTareas\ListaTareas\obj\Debug\net8.0\ref\ListaTareas.dll

@@ -1,0 +1,14 @@
+C:\Users\CHRIS\Desktop\desafios-arreglos\Listado-Compras\Listado-Compras\bin\Debug\net8.0\Listado-Compras.exe
+C:\Users\CHRIS\Desktop\desafios-arreglos\Listado-Compras\Listado-Compras\bin\Debug\net8.0\Listado-Compras.deps.json
+C:\Users\CHRIS\Desktop\desafios-arreglos\Listado-Compras\Listado-Compras\bin\Debug\net8.0\Listado-Compras.runtimeconfig.json
+C:\Users\CHRIS\Desktop\desafios-arreglos\Listado-Compras\Listado-Compras\bin\Debug\net8.0\Listado-Compras.dll
+C:\Users\CHRIS\Desktop\desafios-arreglos\Listado-Compras\Listado-Compras\bin\Debug\net8.0\Listado-Compras.pdb
+C:\Users\CHRIS\Desktop\desafios-arreglos\Listado-Compras\Listado-Compras\obj\Debug\net8.0\Listado-Compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHRIS\Desktop\desafios-arreglos\Listado-Compras\Listado-Compras\obj\Debug\net8.0\Listado-Compras.AssemblyInfoInputs.cache
+C:\Users\CHRIS\Desktop\desafios-arreglos\Listado-Compras\Listado-Compras\obj\Debug\net8.0\Listado-Compras.AssemblyInfo.cs
+C:\Users\CHRIS\Desktop\desafios-arreglos\Listado-Compras\Listado-Compras\obj\Debug\net8.0\Listado-Compras.csproj.CoreCompileInputs.cache
+C:\Users\CHRIS\Desktop\desafios-arreglos\Listado-Compras\Listado-Compras\obj\Debug\net8.0\Listado-Compras.dll
+C:\Users\CHRIS\Desktop\desafios-arreglos\Listado-Compras\Listado-Compras\obj\Debug\net8.0\refint\Listado-Compras.dll
+C:\Users\CHRIS\Desktop\desafios-arreglos\Listado-Compras\Listado-Compras\obj\Debug\net8.0\Listado-Compras.pdb
+C:\Users\CHRIS\Desktop\desafios-arreglos\Listado-Compras\Listado-Compras\obj\Debug\net8.0\Listado-Compras.genruntimeconfig.cache
+C:\Users\CHRIS\Desktop\desafios-arreglos\Listado-Compras\Listado-Compras\obj\Debug\net8.0\ref\Listado-Compras.dll
